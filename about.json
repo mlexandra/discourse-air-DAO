@@ -25,16 +25,16 @@
       "love": "9b3587"
     },
     "air-dark": {
-      "primary": "E6E1E6",
-      "secondary": "1C1B1E",
+      "primary": "FFFFFF",
+      "secondary": "000000",
       "tertiary": "CBBEFF",
       "quaternary": "EDC235",
-      "header_background": "1C1B1E",
+      "header_background": "000000",
       "header_primary": "E7DEFF",
       "highlight": "EDC235",
-      "danger": "FFB4AB",
+      "danger": "FF4A34",
       "success": "4BDCC5",
-      "love": "ffade6"
+      "love": "F150FF"
     }
   }
 }
