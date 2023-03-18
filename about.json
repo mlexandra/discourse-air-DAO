@@ -31,9 +31,9 @@
       "quaternary": "AA77FF",
       "header_background": "000000",
       "header_primary": "FFFFFF",
-      "highlight": "EDC235",
+      "highlight": "AA77FF",
       "danger": "FF4A34",
-      "success": "4BDCC5",
+      "success": "07C7A8",
       "love": "F150FF",
       "selected": "272727",
       "hover": "272727"
