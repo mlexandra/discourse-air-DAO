@@ -27,14 +27,16 @@
     "air-dark": {
       "primary": "FFFFFF",
       "secondary": "000000",
-      "tertiary": "CBBEFF",
-      "quaternary": "EDC235",
+      "tertiary": "6464FF",
+      "quaternary": "AA77FF",
       "header_background": "000000",
-      "header_primary": "E7DEFF",
+      "header_primary": "FFFFFF",
       "highlight": "EDC235",
       "danger": "FF4A34",
       "success": "4BDCC5",
-      "love": "F150FF"
+      "love": "F150FF",
+      "selected": "272727",
+      "hover": "272727"
     }
   }
 }
