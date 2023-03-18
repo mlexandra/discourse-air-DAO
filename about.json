@@ -26,10 +26,10 @@
     },
     "air-dark": {
       "primary": "FFFFFF",
-      "secondary": "000000",
+      "secondary": "111111",
       "tertiary": "6464FF",
       "quaternary": "AA77FF",
-      "header_background": "000000",
+      "header_background": "111111",
       "header_primary": "FFFFFF",
       "highlight": "AA77FF",
       "danger": "FF4A34",
